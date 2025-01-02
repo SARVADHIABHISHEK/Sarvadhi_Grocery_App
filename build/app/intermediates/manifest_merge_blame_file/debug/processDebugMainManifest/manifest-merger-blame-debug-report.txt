@@ -12,51 +12,51 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:8:5-66
-14-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:8:22-64
+14-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:8:5-66
+14-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:8:22-64
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:9:5-79
-15-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:9:22-76
+15-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:9:5-79
+15-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:9:22-76
 16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-16-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:10:5-81
-16-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:10:22-78
+16-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:10:5-81
+16-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:10:22-78
 17
 18    <queries>
-18-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:12:5-25:15
+18-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:12:5-25:15
 19        <intent>
-19-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:13:9-16:18
+19-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:13:9-16:18
 20            <action android:name="android.intent.action.VIEW" />
-20-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:14:13-65
-20-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:14:21-62
+20-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:14:13-65
+20-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:14:21-62
 21
 22            <data android:scheme="https" />
-22-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:13-44
-22-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:19-41
+22-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:13-44
+22-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:19-41
 23        </intent>
 24        <intent>
-24-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:17:9-20:18
+24-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:17:9-20:18
 25            <action android:name="android.intent.action.DIAL" />
-25-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:18:13-65
-25-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:18:21-62
+25-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:18:13-65
+25-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:18:21-62
 26
 27            <data android:scheme="tel" />
-27-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:13-44
-27-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:19-41
+27-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:13-44
+27-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:19-41
 28        </intent>
 29        <intent>
-29-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:21:9-24:18
+29-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:21:9-24:18
 30            <action android:name="android.intent.action.SEND" />
-30-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:22:13-65
-30-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:22:21-62
+30-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:22:13-65
+30-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:22:21-62
 31
 32            <data android:mimeType="*/*" />
-32-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:13-44
+32-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:13-44
 33        </intent>
 34        <intent>
-34-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-10:18
+34-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-10:18
 35            <action android:name="android.support.customtabs.action.CustomTabsService" />
-35-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-90
-35-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:21-87
+35-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-90
+35-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:21-87
 36        </intent>
 37
 38        <package android:name="com.facebook.katana" /> <!-- Needs to be explicitly declared on Android R+ -->
@@ -68,17 +68,17 @@
 40    </queries>
 41
 42    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-42-->[:connectivity_plus] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/connectivity_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-79
-42-->[:connectivity_plus] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/connectivity_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:22-76
+42-->[:connectivity_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/connectivity_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-79
+42-->[:connectivity_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/connectivity_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:22-76
 43    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Permissions options for the `notification` group -->
-43-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:5-68
-43-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:22-65
+43-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:5-68
+43-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:22-65
 44    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-44-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:5-77
-44-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:22-74
+44-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:5-77
+44-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:22-74
 45    <uses-permission android:name="android.permission.VIBRATE" />
-45-->[:flutter_local_notifications] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_local_notifications/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-66
-45-->[:flutter_local_notifications] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_local_notifications/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:22-63
+45-->[:flutter_local_notifications] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_local_notifications/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-66
+45-->[:flutter_local_notifications] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_local_notifications/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:22-63
 46
 47    <uses-feature
 47-->[com.google.android.gms:play-services-maps:18.2.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/c01cb1b6d6ae1b227cd6061181923929/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:26:5-28:35
@@ -190,8 +190,8 @@
 134            android:exported="true" >
 135            <intent-filter>
 136                <action android:name="android.intent.action.VIEW" />
-136-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:14:13-65
-136-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:14:21-62
+136-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:14:13-65
+136-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:14:21-62
 137
 138                <category android:name="android.intent.category.DEFAULT" />
 138-->[com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:34:17-76
@@ -201,45 +201,45 @@
 139-->[com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:35:27-75
 140
 141                <data android:scheme="signinwithapple" />
-141-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:13-44
-141-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:19-41
+141-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:13-44
+141-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:19-41
 142                <data android:path="callback" />
-142-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:13-44
+142-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:13-44
 143            </intent-filter>
 144        </activity>
 145
 146        <service
-146-->[:firebase_auth] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-12:19
+146-->[:firebase_auth] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-12:19
 147            android:name="com.google.firebase.components.ComponentDiscoveryService"
-147-->[:firebase_auth] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:18-89
+147-->[:firebase_auth] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:18-89
 148            android:directBootAware="true"
 148-->[com.google.firebase:firebase-common:21.0.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/69c5e12ccf5a9beb44502607203c520f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:32:13-43
 149            android:exported="false" >
 149-->[com.google.firebase:firebase-auth:23.1.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/65d96fa90bf50b7acf049a9f5ba75085/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:68:13-37
 150            <meta-data
-150-->[:firebase_auth] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-11:85
+150-->[:firebase_auth] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-11:85
 151                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-151-->[:firebase_auth] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:17-124
+151-->[:firebase_auth] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:17-124
 152                android:value="com.google.firebase.components.ComponentRegistrar" />
-152-->[:firebase_auth] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:17-82
+152-->[:firebase_auth] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:17-82
 153            <meta-data
-153-->[:firebase_crashlytics] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_crashlytics/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-11:85
+153-->[:firebase_crashlytics] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_crashlytics/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-11:85
 154                android:name="com.google.firebase.components:io.flutter.plugins.firebase.crashlytics.FlutterFirebaseAppRegistrar"
-154-->[:firebase_crashlytics] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_crashlytics/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:17-130
+154-->[:firebase_crashlytics] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_crashlytics/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:17-130
 155                android:value="com.google.firebase.components.ComponentRegistrar" />
-155-->[:firebase_crashlytics] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_crashlytics/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:17-82
+155-->[:firebase_crashlytics] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_crashlytics/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:17-82
 156            <meta-data
-156-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:13-38:85
+156-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:13-38:85
 157                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
-157-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:37:17-128
+157-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:37:17-128
 158                android:value="com.google.firebase.components.ComponentRegistrar" />
-158-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:38:17-82
+158-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:38:17-82
 159            <meta-data
-159-->[:firebase_core] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-11:85
+159-->[:firebase_core] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-11:85
 160                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-160-->[:firebase_core] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:17-124
+160-->[:firebase_core] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:17-124
 161                android:value="com.google.firebase.components.ComponentRegistrar" />
-161-->[:firebase_core] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:17-82
+161-->[:firebase_core] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:17-82
 162            <meta-data
 162-->[com.google.firebase:firebase-auth:23.1.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/65d96fa90bf50b7acf049a9f5ba75085/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:69:13-71:85
 163                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -308,223 +308,223 @@
 194-->[com.google.firebase:firebase-datatransport:19.0.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/8a352b1782fb2122daeca767b14c5c8b/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:27:17-82
 195        </service>
 196        <service
-196-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:9-17:72
+196-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:9-17:72
 197            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
-197-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:13-107
+197-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:13-107
 198            android:exported="false"
-198-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:13-37
+198-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:13-37
 199            android:permission="android.permission.BIND_JOB_SERVICE" />
-199-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:13-69
+199-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:13-69
 200        <service
-200-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:18:9-24:19
+200-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:18:9-24:19
 201            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
-201-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:13-97
+201-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:13-97
 202            android:exported="false" >
-202-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:20:13-37
+202-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:20:13-37
 203            <intent-filter>
-203-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:13-23:29
+203-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:13-23:29
 204                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-204-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:17-78
-204-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:25-75
+204-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:17-78
+204-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:25-75
 205            </intent-filter>
 206        </service>
 207
 208        <receiver
-208-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:9-33:20
+208-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:9-33:20
 209            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
-209-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:13-98
+209-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:13-98
 210            android:exported="true"
-210-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:13-36
+210-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:13-36
 211            android:permission="com.google.android.c2dm.permission.SEND" >
-211-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:13-73
+211-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:13-73
 212            <intent-filter>
-212-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:13-32:29
+212-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:13-32:29
 213                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-213-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:17-81
-213-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:25-78
+213-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:17-81
+213-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:25-78
 214            </intent-filter>
 215        </receiver>
 216
 217        <provider
-217-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:9-45:38
+217-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:9-45:38
 218            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-218-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:42:13-102
+218-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:42:13-102
 219            android:authorities="com.sixamtech.sixam_mart_user.flutterfirebasemessaginginitprovider"
-219-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:43:13-88
+219-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:43:13-88
 220            android:exported="false"
-220-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:44:13-37
+220-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:44:13-37
 221            android:initOrder="99" />
-221-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:45:13-35
+221-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:45:13-35
 222
 223        <activity
-223-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:9-18:47
+223-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:9-18:47
 224            android:name="com.pichillilorenzo.flutter_inappwebview_android.in_app_browser.InAppBrowserActivity"
-224-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:13-112
+224-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:13-112
 225            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
-225-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:13-137
+225-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:13-137
 226            android:exported="false"
-226-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:13-37
+226-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:13-37
 227            android:theme="@style/AppTheme" />
-227-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:18:13-44
+227-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:18:13-44
 228        <activity
-228-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:9-22:55
+228-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:9-22:55
 229            android:name="com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.ChromeCustomTabsActivity"
-229-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:20:13-120
+229-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:20:13-120
 230            android:exported="false"
-230-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:13-37
+230-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:13-37
 231            android:theme="@style/ThemeTransparent" />
-231-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:13-52
+231-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:13-52
 232        <activity
-232-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:23:9-26:55
+232-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:23:9-26:55
 233            android:name="com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.TrustedWebActivity"
-233-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:24:13-114
+233-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:24:13-114
 234            android:exported="false"
-234-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:13-37
+234-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:13-37
 235            android:theme="@style/ThemeTransparent" />
-235-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:13-52
+235-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:13-52
 236        <activity
-236-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:9-31:55
+236-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:9-31:55
 237            android:name="com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance"
-237-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:13-134
+237-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:13-134
 238            android:exported="false"
-238-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:13-37
+238-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:13-37
 239            android:launchMode="singleInstance"
-239-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:13-48
+239-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:13-48
 240            android:theme="@style/ThemeTransparent" />
-240-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:13-52
+240-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:13-52
 241        <activity
-241-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:32:9-36:55
+241-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:32:9-36:55
 242            android:name="com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.TrustedWebActivitySingleInstance"
-242-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:33:13-128
+242-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:33:13-128
 243            android:exported="false"
-243-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:34:13-37
+243-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:34:13-37
 244            android:launchMode="singleInstance"
-244-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:35:13-48
+244-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:35:13-48
 245            android:theme="@style/ThemeTransparent" />
-245-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:13-52
+245-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:13-52
 246
 247        <receiver
-247-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:38:9-41:40
+247-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:38:9-41:40
 248            android:name="com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.ActionBroadcastReceiver"
-248-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:39:13-119
+248-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:39:13-119
 249            android:enabled="true"
-249-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:40:13-35
+249-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:40:13-35
 250            android:exported="false" />
-250-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:13-37
+250-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:13-37
 251
 252        <meta-data
-252-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:43:9-45:36
+252-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:43:9-45:36
 253            android:name="io.flutter.embedded_views_preview"
-253-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:44:13-61
+253-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:44:13-61
 254            android:value="true" />
-254-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:45:13-33
+254-->[:flutter_inappwebview_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:45:13-33
 255
 256        <provider
-256-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:9-17:20
+256-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:9-17:20
 257            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-257-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-82
+257-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-82
 258            android:authorities="com.sixamtech.sixam_mart_user.flutter.image_provider"
-258-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:13-74
+258-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:13-74
 259            android:exported="false"
-259-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:13-37
+259-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:13-37
 260            android:grantUriPermissions="true" >
-260-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:13-47
+260-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:13-47
 261            <meta-data
-261-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:13-16:75
+261-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:13-16:75
 262                android:name="android.support.FILE_PROVIDER_PATHS"
-262-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:17-67
+262-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:17-67
 263                android:resource="@xml/flutter_image_picker_file_paths" />
-263-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:17-72
+263-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:17-72
 264        </provider> <!-- Trigger Google Play services to install the backported photo picker module. -->
 265        <service
-265-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:9-31:19
+265-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:9-31:19
 266            android:name="com.google.android.gms.metadata.ModuleDependencies"
-266-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:20:13-78
+266-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:20:13-78
 267            android:enabled="false"
-267-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:13-36
+267-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:13-36
 268            android:exported="false" >
-268-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:13-37
+268-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:13-37
 269            <intent-filter>
-269-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:24:13-26:29
+269-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:24:13-26:29
 270                <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" />
-270-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:17-94
-270-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:25-91
+270-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:17-94
+270-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:25-91
 271            </intent-filter>
 272
 273            <meta-data
-273-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:13-30:36
+273-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:13-30:36
 274                android:name="photopicker_activity:0:required"
-274-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:17-63
+274-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:17-63
 275                android:value="" />
-275-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:17-33
+275-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:17-33
 276        </service>
 277        <service
-277-->[:geolocator_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/geolocator_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-12:56
+277-->[:geolocator_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/geolocator_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-12:56
 278            android:name="com.baseflow.geolocator.GeolocatorLocationService"
-278-->[:geolocator_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/geolocator_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-77
+278-->[:geolocator_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/geolocator_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-77
 279            android:enabled="true"
-279-->[:geolocator_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/geolocator_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-35
+279-->[:geolocator_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/geolocator_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-35
 280            android:exported="false"
-280-->[:geolocator_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/geolocator_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:13-37
+280-->[:geolocator_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/geolocator_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:13-37
 281            android:foregroundServiceType="location" />
-281-->[:geolocator_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/geolocator_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:13-53
+281-->[:geolocator_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/geolocator_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:13-53
 282        <service
-282-->[:location] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/location/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:9-15:56
+282-->[:location] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/location/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:9-15:56
 283            android:name="com.lyokone.location.FlutterLocationService"
-283-->[:location] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/location/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:13-71
+283-->[:location] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/location/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:13-71
 284            android:enabled="true"
-284-->[:location] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/location/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:13-35
+284-->[:location] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/location/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:13-35
 285            android:exported="false"
-285-->[:location] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/location/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:13-37
+285-->[:location] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/location/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:13-37
 286            android:foregroundServiceType="location" />
-286-->[:location] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/location/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:13-53
+286-->[:location] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/location/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:13-53
 287        <!--
 288           Declares a provider which allows us to store files to share in
 289           '.../caches/share_plus' and grant the receiving action access
 290        -->
 291        <provider
-291-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:9-21:20
+291-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:9-21:20
 292            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
-292-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:13-77
+292-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:13-77
 293            android:authorities="com.sixamtech.sixam_mart_user.flutter.share_provider"
-293-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:13-74
+293-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:13-74
 294            android:exported="false"
-294-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:13-37
+294-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:13-37
 295            android:grantUriPermissions="true" >
-295-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:13-47
+295-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:13-47
 296            <meta-data
-296-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:13-16:75
+296-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:13-16:75
 297                android:name="android.support.FILE_PROVIDER_PATHS"
-297-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:17-67
+297-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:17-67
 298                android:resource="@xml/flutter_share_file_paths" />
-298-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:17-72
+298-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:17-72
 299        </provider>
 300        <!--
 301           This manifest declared broadcast receiver allows us to use an explicit
 302           Intent when creating a PendingItent to be informed of the user's choice
 303        -->
 304        <receiver
-304-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:9-32:20
+304-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:9-32:20
 305            android:name="dev.fluttercommunity.plus.share.SharePlusPendingIntent"
-305-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:13-82
+305-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:13-82
 306            android:exported="false" >
-306-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:13-37
+306-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:13-37
 307            <intent-filter>
-307-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:13-31:29
+307-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:13-31:29
 308                <action android:name="EXTRA_CHOSEN_COMPONENT" />
-308-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:17-65
-308-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:25-62
+308-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:17-65
+308-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:25-62
 309            </intent-filter>
 310        </receiver>
 311
 312        <activity
-312-->[:url_launcher_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-11:74
+312-->[:url_launcher_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-11:74
 313            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-313-->[:url_launcher_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-74
+313-->[:url_launcher_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-74
 314            android:exported="false"
-314-->[:url_launcher_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-37
+314-->[:url_launcher_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-37
 315            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-315-->[:url_launcher_android] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:13-71
+315-->[:url_launcher_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:13-71
 316        <activity
 316-->[com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:22:9-25:66
 317            android:name="com.facebook.FacebookActivity"
@@ -545,8 +545,8 @@
 324            <intent-filter>
 324-->[com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:31:13-40:29
 325                <action android:name="android.intent.action.VIEW" />
-325-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:14:13-65
-325-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:14:21-62
+325-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:14:13-65
+325-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:14:21-62
 326
 327                <category android:name="android.intent.category.DEFAULT" />
 327-->[com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:34:17-76
@@ -556,10 +556,10 @@
 328-->[com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:35:27-75
 329
 330                <data
-330-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:13-44
+330-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:13-44
 331                    android:host="cct.com.sixamtech.sixam_mart_user"
 332                    android:scheme="fbconnect" />
-332-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:19-41
+332-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:19-41
 333            </intent-filter>
 334        </activity>
 335        <activity
@@ -577,8 +577,8 @@
 341            <intent-filter>
 341-->[com.google.firebase:firebase-auth:23.1.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/65d96fa90bf50b7acf049a9f5ba75085/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:35:13-45:29
 342                <action android:name="android.intent.action.VIEW" />
-342-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:14:13-65
-342-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:14:21-62
+342-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:14:13-65
+342-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:14:21-62
 343
 344                <category android:name="android.intent.category.DEFAULT" />
 344-->[com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:34:17-76
@@ -588,11 +588,11 @@
 345-->[com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:35:27-75
 346
 347                <data
-347-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:13-44
+347-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:13-44
 348                    android:host="firebase.auth"
 349                    android:path="/"
 350                    android:scheme="genericidp" />
-350-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:19-41
+350-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:19-41
 351            </intent-filter>
 352        </activity>
 353        <activity
@@ -610,8 +610,8 @@
 359            <intent-filter>
 359-->[com.google.firebase:firebase-auth:23.1.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/65d96fa90bf50b7acf049a9f5ba75085/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:53:13-63:29
 360                <action android:name="android.intent.action.VIEW" />
-360-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:14:13-65
-360-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:14:21-62
+360-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:14:13-65
+360-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:14:21-62
 361
 362                <category android:name="android.intent.category.DEFAULT" />
 362-->[com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:34:17-76
@@ -621,11 +621,11 @@
 363-->[com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:35:27-75
 364
 365                <data
-365-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:13-44
+365-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:13-44
 366                    android:host="firebase.auth"
 367                    android:path="/"
 368                    android:scheme="recaptcha" />
-368-->/Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/src/main/AndroidManifest.xml:15:19-41
+368-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:19-41
 369            </intent-filter>
 370        </activity> <!-- Needs to be explicitly declared on P+ -->
 371        <uses-library
@@ -700,10 +700,10 @@
 410            android:permission="com.google.android.c2dm.permission.SEND" >
 410-->[com.google.firebase:firebase-messaging:24.0.3] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/0707de4603a8882c77bf1d6e99fee7c1/transformed/jetified-firebase-messaging-24.0.3/AndroidManifest.xml:32:13-73
 411            <intent-filter>
-411-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:13-32:29
+411-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:13-32:29
 412                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-412-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:17-81
-412-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:25-78
+412-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:17-81
+412-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:25-78
 413            </intent-filter>
 414
 415            <meta-data
@@ -726,10 +726,10 @@
 426            android:exported="false" >
 426-->[com.google.firebase:firebase-messaging:24.0.3] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/0707de4603a8882c77bf1d6e99fee7c1/transformed/jetified-firebase-messaging-24.0.3/AndroidManifest.xml:49:13-37
 427            <intent-filter android:priority="-500" >
-427-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:13-23:29
+427-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:13-23:29
 428                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-428-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:17-78
-428-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/codecanyon-WA54oDMX-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:25-75
+428-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:17-78
+428-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:25-75
 429            </intent-filter>
 430        </service>
 431

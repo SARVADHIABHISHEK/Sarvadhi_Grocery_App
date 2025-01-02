@@ -835,7 +835,10 @@ class CheckoutScreenState extends State<CheckoutScreen> {
                                 checkoutController.tipController.text.trim()) <
                             0) {
                       showCustomSnackBar('tips_can_not_be_negative'.tr);
-                    } else if ((checkoutController.selectedDateSlot == 0 && todayClosed) || (checkoutController.selectedDateSlot == 1 && tomorrowClosed)) {
+                    } else if ((checkoutController.selectedDateSlot == 0 &&
+                            todayClosed) ||
+                        (checkoutController.selectedDateSlot == 1 &&
+                            tomorrowClosed)) {
                       showCustomSnackBar(Get.find<SplashController>()
                               .configModel!
                               .moduleConfig!
@@ -908,6 +911,8 @@ class CheckoutScreenState extends State<CheckoutScreen> {
                               .zoneId,
                           email: guestEmailController.text,
                         );
+
+                        print('finalAddress: $finalAddress');
                       }
 
                       if (!isGuestLogIn &&
@@ -956,33 +961,35 @@ class CheckoutScreenState extends State<CheckoutScreen> {
                               }
                             }
                           }
-                          carts.add(OnlineCart(
-                            cart.id,
-                            cart.item!.id,
-                            cart.isCampaign! ? cart.item!.id : null,
-                            cart.discountedPrice.toString(),
-                            '',
-                            Get.find<SplashController>()
-                                    .getModuleConfig(cart.item!.moduleType)
-                                    .newVariation!
-                                ? null
-                                : cart.variation,
-                            Get.find<SplashController>()
-                                    .getModuleConfig(cart.item!.moduleType)
-                                    .newVariation!
-                                ? variations
-                                : null,
-                            cart.quantity,
-                            addOnIdList,
-                            cart.addOns,
-                            addOnQtyList,
-                            'Item',
-                            itemType: !widget.fromCart
-                                ? "AppModelsItemCampaign"
-                                : null,
-                          ));
+                          carts.add(
+                            OnlineCart(
+                              cart.id,
+                              cart.item!.id,
+                              cart.isCampaign! ? cart.item!.id : null,
+                              cart.discountedPrice.toString(),
+                              '',
+                              Get.find<SplashController>()
+                                      .getModuleConfig(cart.item!.moduleType)
+                                      .newVariation!
+                                  ? null
+                                  : cart.variation,
+                              Get.find<SplashController>()
+                                      .getModuleConfig(cart.item!.moduleType)
+                                      .newVariation!
+                                  ? variations
+                                  : null,
+                              cart.quantity,
+                              addOnIdList,
+                              cart.addOns,
+                              addOnQtyList,
+                              'Item',
+                              itemType: !widget.fromCart
+                                  ? "AppModelsItemCampaign"
+                                  : null,
+                            ),
+                          );
                         }
-
+                        ///Changed Here
                         PlaceOrderBodyModel placeOrderBody =
                             PlaceOrderBodyModel(
                           cart: carts,
@@ -1018,8 +1025,8 @@ class CheckoutScreenState extends State<CheckoutScreen> {
                                   : null,
                           storeId: _cartList![0]!.item!.storeId,
                           address: finalAddress!.address,
-                          latitude: finalAddress.latitude,
-                          longitude: finalAddress.longitude,
+                          latitude: '21.1593403',
+                          longitude: '72.7398947',
                           senderZoneId: null,
                           addressType: finalAddress.addressType,
                           contactPersonName: finalAddress.contactPersonName ??
