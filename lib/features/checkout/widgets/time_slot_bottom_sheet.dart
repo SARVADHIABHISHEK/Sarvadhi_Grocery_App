@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:sixam_mart/features/splash/controllers/splash_controller.dart';
-import 'package:sixam_mart/features/store/controllers/store_controller.dart';
-import 'package:sixam_mart/common/models/config_model.dart';
-import 'package:sixam_mart/features/checkout/controllers/checkout_controller.dart';
-import 'package:sixam_mart/helper/date_converter.dart';
-import 'package:sixam_mart/helper/responsive_helper.dart';
-import 'package:sixam_mart/util/dimensions.dart';
-import 'package:sixam_mart/util/styles.dart';
-import 'package:sixam_mart/common/widgets/custom_button.dart';
-import 'package:sixam_mart/features/checkout/widgets/slot_widget.dart';
+import 'package:sarvadhi_mart/features/splash/controllers/splash_controller.dart';
+import 'package:sarvadhi_mart/features/store/controllers/store_controller.dart';
+import 'package:sarvadhi_mart/common/models/config_model.dart';
+import 'package:sarvadhi_mart/features/checkout/controllers/checkout_controller.dart';
+import 'package:sarvadhi_mart/helper/date_converter.dart';
+import 'package:sarvadhi_mart/helper/responsive_helper.dart';
+import 'package:sarvadhi_mart/util/dimensions.dart';
+import 'package:sarvadhi_mart/util/styles.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_button.dart';
+import 'package:sarvadhi_mart/features/checkout/widgets/slot_widget.dart';
 
 class TimeSlotBottomSheet extends StatefulWidget {
   final bool tomorrowClosed;

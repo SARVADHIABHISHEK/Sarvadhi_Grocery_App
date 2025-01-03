@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:sixam_mart/features/auth/widgets/sign_in/sign_in_view.dart';
-import 'package:sixam_mart/features/splash/controllers/splash_controller.dart';
-import 'package:sixam_mart/helper/centralize_login_helper.dart';
-import 'package:sixam_mart/util/dimensions.dart';
-import 'package:sixam_mart/util/images.dart';
+import 'package:sarvadhi_mart/features/auth/widgets/sign_in/sign_in_view.dart';
+import 'package:sarvadhi_mart/features/splash/controllers/splash_controller.dart';
+import 'package:sarvadhi_mart/helper/centralize_login_helper.dart';
+import 'package:sarvadhi_mart/util/dimensions.dart';
+import 'package:sarvadhi_mart/util/images.dart';
 
 class AuthDialogWidget extends StatefulWidget {
   final bool exitFromApp;

@@ -1,10 +1,10 @@
 import 'package:flutter/foundation.dart';
 import 'package:get/get.dart';
-import 'package:sixam_mart/common/models/response_model.dart';
-import 'package:sixam_mart/features/review/domain/models/review_body_model.dart';
-import 'package:sixam_mart/features/review/domain/models/review_model.dart';
-import 'package:sixam_mart/features/order/domain/models/order_details_model.dart';
-import 'package:sixam_mart/features/review/domain/services/review_service_interface.dart';
+import 'package:sarvadhi_mart/common/models/response_model.dart';
+import 'package:sarvadhi_mart/features/review/domain/models/review_body_model.dart';
+import 'package:sarvadhi_mart/features/review/domain/models/review_model.dart';
+import 'package:sarvadhi_mart/features/order/domain/models/order_details_model.dart';
+import 'package:sarvadhi_mart/features/review/domain/services/review_service_interface.dart';
 
 class ReviewController extends GetxController implements GetxService {
   final ReviewServiceInterface reviewServiceInterface;

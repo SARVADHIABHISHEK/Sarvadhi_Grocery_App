@@ -1,8 +1,8 @@
-import 'package:sixam_mart/features/auth/controllers/store_registration_controller.dart';
+import 'package:sarvadhi_mart/features/auth/controllers/store_registration_controller.dart';
 import 'package:flutter/material.dart';
-import 'package:sixam_mart/helper/responsive_helper.dart';
-import 'package:sixam_mart/util/dimensions.dart';
-import 'package:sixam_mart/util/styles.dart';
+import 'package:sarvadhi_mart/helper/responsive_helper.dart';
+import 'package:sarvadhi_mart/util/dimensions.dart';
+import 'package:sarvadhi_mart/util/styles.dart';
 
 class BaseCardWidget extends StatelessWidget {
   final StoreRegistrationController storeRegistrationController;

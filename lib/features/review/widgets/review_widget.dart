@@ -1,12 +1,12 @@
-import 'package:sixam_mart/common/widgets/custom_image.dart';
-import 'package:sixam_mart/common/widgets/rating_bar.dart';
-import 'package:sixam_mart/common/widgets/readmore_widget.dart';
-import 'package:sixam_mart/features/item/controllers/item_controller.dart';
-import 'package:sixam_mart/features/review/domain/models/review_model.dart';
-import 'package:sixam_mart/helper/date_converter.dart';
-import 'package:sixam_mart/helper/responsive_helper.dart';
-import 'package:sixam_mart/util/dimensions.dart';
-import 'package:sixam_mart/util/styles.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_image.dart';
+import 'package:sarvadhi_mart/common/widgets/rating_bar.dart';
+import 'package:sarvadhi_mart/common/widgets/readmore_widget.dart';
+import 'package:sarvadhi_mart/features/item/controllers/item_controller.dart';
+import 'package:sarvadhi_mart/features/review/domain/models/review_model.dart';
+import 'package:sarvadhi_mart/helper/date_converter.dart';
+import 'package:sarvadhi_mart/helper/responsive_helper.dart';
+import 'package:sarvadhi_mart/util/dimensions.dart';
+import 'package:sarvadhi_mart/util/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:sixam_mart/features/favourite/controllers/favourite_controller.dart';
-import 'package:sixam_mart/features/item/domain/models/item_model.dart';
-import 'package:sixam_mart/helper/auth_helper.dart';
-import 'package:sixam_mart/common/widgets/custom_snackbar.dart';
+import 'package:sarvadhi_mart/features/favourite/controllers/favourite_controller.dart';
+import 'package:sarvadhi_mart/features/item/domain/models/item_model.dart';
+import 'package:sarvadhi_mart/helper/auth_helper.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_snackbar.dart';
 
 class AddFavouriteView extends StatelessWidget {
   final Item? item;

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sixamtech.sixam_mart_user.app-mergeDebugResources-64:/values-hr/values-hr.xml",
+            "outputFile": "com.sixamtech.sarvadhi_mart_user.app-mergeDebugResources-64:/values-hr/values-hr.xml",
             "map": [
                 {
                     "source": "/Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/9f6aa37a7a4b8b7d99e3511b68efe7e9/transformed/jetified-media3-exoplayer-1.4.1/res/values-hr/values-hr.xml",

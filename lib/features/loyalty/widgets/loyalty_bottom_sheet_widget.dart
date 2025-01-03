@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:sixam_mart/features/loyalty/controllers/loyalty_controller.dart';
-import 'package:sixam_mart/features/splash/controllers/splash_controller.dart';
-import 'package:sixam_mart/features/profile/controllers/profile_controller.dart';
-import 'package:sixam_mart/helper/price_converter.dart';
-import 'package:sixam_mart/helper/responsive_helper.dart';
-import 'package:sixam_mart/util/dimensions.dart';
-import 'package:sixam_mart/util/images.dart';
-import 'package:sixam_mart/util/styles.dart';
-import 'package:sixam_mart/common/widgets/custom_button.dart';
-import 'package:sixam_mart/common/widgets/custom_snackbar.dart';
-import 'package:sixam_mart/common/widgets/custom_text_field.dart';
+import 'package:sarvadhi_mart/features/loyalty/controllers/loyalty_controller.dart';
+import 'package:sarvadhi_mart/features/splash/controllers/splash_controller.dart';
+import 'package:sarvadhi_mart/features/profile/controllers/profile_controller.dart';
+import 'package:sarvadhi_mart/helper/price_converter.dart';
+import 'package:sarvadhi_mart/helper/responsive_helper.dart';
+import 'package:sarvadhi_mart/util/dimensions.dart';
+import 'package:sarvadhi_mart/util/images.dart';
+import 'package:sarvadhi_mart/util/styles.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_button.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_snackbar.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_text_field.dart';
 
 class LoyaltyBottomSheetWidget extends StatefulWidget {
   final String amount;

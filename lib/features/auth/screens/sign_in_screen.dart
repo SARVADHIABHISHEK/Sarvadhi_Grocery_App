@@ -1,11 +1,11 @@
 import 'dart:async';
 import 'dart:io';
-import 'package:sixam_mart/features/auth/widgets/sign_in/sign_in_view.dart';
-import 'package:sixam_mart/helper/responsive_helper.dart';
-import 'package:sixam_mart/helper/route_helper.dart';
-import 'package:sixam_mart/util/dimensions.dart';
-import 'package:sixam_mart/util/images.dart';
-import 'package:sixam_mart/common/widgets/menu_drawer.dart';
+import 'package:sarvadhi_mart/features/auth/widgets/sign_in/sign_in_view.dart';
+import 'package:sarvadhi_mart/helper/responsive_helper.dart';
+import 'package:sarvadhi_mart/helper/route_helper.dart';
+import 'package:sarvadhi_mart/util/dimensions.dart';
+import 'package:sarvadhi_mart/util/images.dart';
+import 'package:sarvadhi_mart/common/widgets/menu_drawer.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';

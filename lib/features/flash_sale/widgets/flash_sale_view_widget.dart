@@ -1,19 +1,19 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shimmer_animation/shimmer_animation.dart';
-import 'package:sixam_mart/common/widgets/custom_ink_well.dart';
-import 'package:sixam_mart/features/flash_sale/controllers/flash_sale_controller.dart';
-import 'package:sixam_mart/features/item/controllers/item_controller.dart';
-import 'package:sixam_mart/features/splash/controllers/splash_controller.dart';
-import 'package:sixam_mart/features/item/domain/models/item_model.dart';
-import 'package:sixam_mart/features/home/widgets/components/flash_sale_card_widget.dart';
-import 'package:sixam_mart/helper/price_converter.dart';
-import 'package:sixam_mart/helper/responsive_helper.dart';
-import 'package:sixam_mart/helper/route_helper.dart';
-import 'package:sixam_mart/util/dimensions.dart';
-import 'package:sixam_mart/util/styles.dart';
-import 'package:sixam_mart/features/flash_sale/widgets/timer_widget.dart';
-import 'package:sixam_mart/features/flash_sale/widgets/flash_sale_timer_view_widget.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_ink_well.dart';
+import 'package:sarvadhi_mart/features/flash_sale/controllers/flash_sale_controller.dart';
+import 'package:sarvadhi_mart/features/item/controllers/item_controller.dart';
+import 'package:sarvadhi_mart/features/splash/controllers/splash_controller.dart';
+import 'package:sarvadhi_mart/features/item/domain/models/item_model.dart';
+import 'package:sarvadhi_mart/features/home/widgets/components/flash_sale_card_widget.dart';
+import 'package:sarvadhi_mart/helper/price_converter.dart';
+import 'package:sarvadhi_mart/helper/responsive_helper.dart';
+import 'package:sarvadhi_mart/helper/route_helper.dart';
+import 'package:sarvadhi_mart/util/dimensions.dart';
+import 'package:sarvadhi_mart/util/styles.dart';
+import 'package:sarvadhi_mart/features/flash_sale/widgets/timer_widget.dart';
+import 'package:sarvadhi_mart/features/flash_sale/widgets/flash_sale_timer_view_widget.dart';
 
 class FlashSaleViewWidget extends StatefulWidget {
   const FlashSaleViewWidget({super.key});

@@ -3,23 +3,23 @@ import 'package:flutter_facebook_auth/flutter_facebook_auth.dart';
 import 'package:get/get.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:sign_in_with_apple/sign_in_with_apple.dart';
-import 'package:sixam_mart/common/models/response_model.dart';
-import 'package:sixam_mart/common/widgets/custom_ink_well.dart';
-import 'package:sixam_mart/common/widgets/custom_snackbar.dart';
-import 'package:sixam_mart/features/auth/controllers/auth_controller.dart';
-import 'package:sixam_mart/features/auth/domain/enum/centralize_login_enum.dart';
-import 'package:sixam_mart/features/auth/domain/models/social_log_in_body.dart';
-import 'package:sixam_mart/features/auth/screens/new_user_setup_screen.dart';
-import 'package:sixam_mart/features/auth/widgets/sign_in/existing_user_bottom_sheet.dart';
-import 'package:sixam_mart/features/language/controllers/language_controller.dart';
-import 'package:sixam_mart/features/location/controllers/location_controller.dart';
-import 'package:sixam_mart/features/splash/controllers/splash_controller.dart';
-import 'package:sixam_mart/helper/responsive_helper.dart';
-import 'package:sixam_mart/helper/route_helper.dart';
-import 'package:sixam_mart/util/app_constants.dart';
-import 'package:sixam_mart/util/dimensions.dart';
-import 'package:sixam_mart/util/images.dart';
-import 'package:sixam_mart/util/styles.dart';
+import 'package:sarvadhi_mart/common/models/response_model.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_ink_well.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_snackbar.dart';
+import 'package:sarvadhi_mart/features/auth/controllers/auth_controller.dart';
+import 'package:sarvadhi_mart/features/auth/domain/enum/centralize_login_enum.dart';
+import 'package:sarvadhi_mart/features/auth/domain/models/social_log_in_body.dart';
+import 'package:sarvadhi_mart/features/auth/screens/new_user_setup_screen.dart';
+import 'package:sarvadhi_mart/features/auth/widgets/sign_in/existing_user_bottom_sheet.dart';
+import 'package:sarvadhi_mart/features/language/controllers/language_controller.dart';
+import 'package:sarvadhi_mart/features/location/controllers/location_controller.dart';
+import 'package:sarvadhi_mart/features/splash/controllers/splash_controller.dart';
+import 'package:sarvadhi_mart/helper/responsive_helper.dart';
+import 'package:sarvadhi_mart/helper/route_helper.dart';
+import 'package:sarvadhi_mart/util/app_constants.dart';
+import 'package:sarvadhi_mart/util/dimensions.dart';
+import 'package:sarvadhi_mart/util/images.dart';
+import 'package:sarvadhi_mart/util/styles.dart';
 
 class SocialLoginWidget extends StatelessWidget {
   final bool onlySocialLogin;
@@ -451,7 +451,7 @@ class SocialLoginWidget extends StatelessWidget {
 
     // webAuthenticationOptions: WebAuthenticationOptions(
     //   clientId: Get.find<SplashController>().configModel.appleLogin[0].clientId,
-    //   redirectUri: Uri.parse('https://6ammart-web.6amtech.com/apple'),
+    //   redirectUri: Uri.parse('https://Sarvadhi_Mart-web.6amtech.com/apple'),
     // ),
 
     SocialLogInBody appleBodyModel = SocialLogInBody(

@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:sixam_mart/common/widgets/custom_asset_image_widget.dart';
-import 'package:sixam_mart/common/widgets/custom_button.dart';
-import 'package:sixam_mart/features/auth/controllers/auth_controller.dart';
-import 'package:sixam_mart/helper/responsive_helper.dart';
-import 'package:sixam_mart/util/dimensions.dart';
-import 'package:sixam_mart/util/images.dart';
-import 'package:sixam_mart/util/styles.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_asset_image_widget.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_button.dart';
+import 'package:sarvadhi_mart/features/auth/controllers/auth_controller.dart';
+import 'package:sarvadhi_mart/helper/responsive_helper.dart';
+import 'package:sarvadhi_mart/util/dimensions.dart';
+import 'package:sarvadhi_mart/util/images.dart';
+import 'package:sarvadhi_mart/util/styles.dart';
 
 class NotificationStatusChangeBottomSheet extends StatelessWidget {
   const NotificationStatusChangeBottomSheet({super.key});

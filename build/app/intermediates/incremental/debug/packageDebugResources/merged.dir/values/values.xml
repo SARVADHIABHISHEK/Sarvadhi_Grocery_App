@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
     <color name="background_color">#FFFFFF</color>
-    <string name="app_name">6amMart</string>
+    <string name="app_name">Sarvadhi_Mart</string>
     <string name="com.google.firebase.crashlytics.mapping_file_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">00000000000000000000000000000000</string>
     <string name="default_web_client_id" translatable="false">491987943015-agln6biv84krpnngdphj87jkko7r9lb8.apps.googleusercontent.com</string>
     <string name="facebook_app_id">380903914182154</string>

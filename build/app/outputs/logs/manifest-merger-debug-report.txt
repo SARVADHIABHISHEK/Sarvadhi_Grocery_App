@@ -266,7 +266,7 @@ MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/abhisheksmacm3-24-5
 MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/4ba5144bba28c3bcd45c87a18867c0ef/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.play:core-common:2.0.3] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/98011452a44c57873b157cd78590c770/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:2:5-44
+		ADDED from /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:2:5-47
 		INJECTED from /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/debug/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/debug/AndroidManifest.xml
@@ -968,7 +968,7 @@ ADDED from [com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-2
 		ADDED from [com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:28:13-58
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
 ADDED from [com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:31:13-40:29
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.sixamtech.sixam_mart_user+data:scheme:fbconnect
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.sixamtech.sarvadhi_mart_user+data:scheme:fbconnect
 ADDED from [com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:31:13-40:29
 category#android.intent.category.DEFAULT
 ADDED from [com.facebook.android:facebook-common:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/2c5a6bb7a938b5fb20d7e99e53d59ce9/transformed/jetified-facebook-common-17.0.2/AndroidManifest.xml:34:17-76
@@ -1282,7 +1282,7 @@ ADDED from [androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches
 		ADDED from [androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from [androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
-permission#com.sixamtech.sixam_mart_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+permission#com.sixamtech.sarvadhi_mart_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
 		ADDED from [androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
@@ -1292,7 +1292,7 @@ uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
-uses-permission#com.sixamtech.sixam_mart_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission#com.sixamtech.sarvadhi_mart_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/AndroidManifest.xml:26:22-94

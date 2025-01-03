@@ -1,18 +1,18 @@
-import 'package:sixam_mart/features/cart/controllers/cart_controller.dart';
-import 'package:sixam_mart/features/favourite/controllers/favourite_controller.dart';
-import 'package:sixam_mart/features/chat/domain/models/conversation_model.dart';
-import 'package:sixam_mart/common/models/response_model.dart';
-import 'package:sixam_mart/features/location/controllers/location_controller.dart';
-import 'package:sixam_mart/features/profile/domain/models/update_user_model.dart';
-import 'package:sixam_mart/features/profile/domain/models/userinfo_model.dart';
+import 'package:sarvadhi_mart/features/cart/controllers/cart_controller.dart';
+import 'package:sarvadhi_mart/features/favourite/controllers/favourite_controller.dart';
+import 'package:sarvadhi_mart/features/chat/domain/models/conversation_model.dart';
+import 'package:sarvadhi_mart/common/models/response_model.dart';
+import 'package:sarvadhi_mart/features/location/controllers/location_controller.dart';
+import 'package:sarvadhi_mart/features/profile/domain/models/update_user_model.dart';
+import 'package:sarvadhi_mart/features/profile/domain/models/userinfo_model.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:sixam_mart/features/auth/controllers/auth_controller.dart';
-import 'package:sixam_mart/features/verification/screens/verification_screen.dart';
-import 'package:sixam_mart/helper/responsive_helper.dart';
-import 'package:sixam_mart/helper/route_helper.dart';
-import 'package:sixam_mart/common/widgets/custom_snackbar.dart';
-import 'package:sixam_mart/features/profile/domain/services/profile_service_interface.dart';
+import 'package:sarvadhi_mart/features/auth/controllers/auth_controller.dart';
+import 'package:sarvadhi_mart/features/verification/screens/verification_screen.dart';
+import 'package:sarvadhi_mart/helper/responsive_helper.dart';
+import 'package:sarvadhi_mart/helper/route_helper.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_snackbar.dart';
+import 'package:sarvadhi_mart/features/profile/domain/services/profile_service_interface.dart';
 
 class ProfileController extends GetxController implements GetxService {
   final ProfileServiceInterface profileServiceInterface;

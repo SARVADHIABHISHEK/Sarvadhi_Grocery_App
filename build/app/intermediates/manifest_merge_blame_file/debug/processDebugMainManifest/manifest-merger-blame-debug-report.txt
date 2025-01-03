@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.sixamtech.sixam_mart_user"
+3    package="com.sixamtech.sarvadhi_mart_user"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
@@ -98,12 +98,12 @@
 53
 54    <permission
 54-->[androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
-55        android:name="com.sixamtech.sixam_mart_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+55        android:name="com.sixamtech.sarvadhi_mart_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
 55-->[androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
 56        android:protectionLevel="signature" />
 56-->[androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
 57
-58    <uses-permission android:name="com.sixamtech.sixam_mart_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+58    <uses-permission android:name="com.sixamtech.sarvadhi_mart_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 58-->[androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
 58-->[androidx.core:core:1.13.1] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
 59    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
@@ -117,7 +117,7 @@
 64        android:debuggable="true"
 65        android:extractNativeLibs="true"
 66        android:icon="@mipmap/ic_launcher"
-67        android:label="6amMart"
+67        android:label="Sarvadhi_Mart"
 68        android:requestLegacyExternalStorage="true"
 69        android:supportsRtl="true"
 69-->[com.facebook.android:facebook-android-sdk:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/b0005173e3240cc9663ac09c2b2924ce/transformed/jetified-facebook-android-sdk-17.0.2/AndroidManifest.xml:16:18-44
@@ -127,7 +127,7 @@
 73            android:value="AIzaSyCaCSJ0BZItSyXqBv8vpD1N4WBffJeKhLQ" />
 74
 75        <activity
-76            android:name="com.sixamtech.sixam_mart_user.MainActivity"
+76            android:name="com.sixamtech.sarvadhi_mart_user.MainActivity"
 77            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
 78            android:exported="true"
 79            android:hardwareAccelerated="true"
@@ -156,7 +156,7 @@
 102                android:resource="@drawable/launch_background" />
 103            <meta-data
 104                android:name="com.google.firebase.messaging.default_notification_channel_id"
-105                android:value="6ammart" />
+105                android:value="Sarvadhi_Mart" />
 106
 107            <intent-filter>
 108                <action android:name="android.intent.action.MAIN" />
@@ -186,7 +186,7 @@
 130            android:value="@string/facebook_client_token" />
 131
 132        <activity
-133            android:name="com.sixamtech.sixam_mart_user.sign_in_with_apple.SignInWithAppleCallback"
+133            android:name="com.sixamtech.sarvadhi_mart_user.sign_in_with_apple.SignInWithAppleCallback"
 134            android:exported="true" >
 135            <intent-filter>
 136                <action android:name="android.intent.action.VIEW" />
@@ -349,7 +349,7 @@
 217-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:9-45:38
 218            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
 218-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:42:13-102
-219            android:authorities="com.sixamtech.sixam_mart_user.flutterfirebasemessaginginitprovider"
+219            android:authorities="com.sixamtech.sarvadhi_mart_user.flutterfirebasemessaginginitprovider"
 219-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:43:13-88
 220            android:exported="false"
 220-->[:firebase_messaging] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/firebase_messaging/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:44:13-37
@@ -423,7 +423,7 @@
 256-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:9-17:20
 257            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
 257-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-82
-258            android:authorities="com.sixamtech.sixam_mart_user.flutter.image_provider"
+258            android:authorities="com.sixamtech.sarvadhi_mart_user.flutter.image_provider"
 258-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:13-74
 259            android:exported="false"
 259-->[:image_picker_android] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:13-37
@@ -486,7 +486,7 @@
 291-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:9-21:20
 292            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
 292-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:13-77
-293            android:authorities="com.sixamtech.sixam_mart_user.flutter.share_provider"
+293            android:authorities="com.sixamtech.sarvadhi_mart_user.flutter.share_provider"
 293-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:13-74
 294            android:exported="false"
 294-->[:share_plus] /Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/build/share_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:13-37
@@ -557,7 +557,7 @@
 329
 330                <data
 330-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:13-44
-331                    android:host="cct.com.sixamtech.sixam_mart_user"
+331                    android:host="cct.com.sixamtech.sarvadhi_mart_user"
 332                    android:scheme="fbconnect" />
 332-->/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/AndroidManifest.xml:15:19-41
 333            </intent-filter>
@@ -755,7 +755,7 @@
 442-->[com.google.firebase:firebase-common:21.0.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/69c5e12ccf5a9beb44502607203c520f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
 443            android:name="com.google.firebase.provider.FirebaseInitProvider"
 443-->[com.google.firebase:firebase-common:21.0.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/69c5e12ccf5a9beb44502607203c520f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:24:13-77
-444            android:authorities="com.sixamtech.sixam_mart_user.firebaseinitprovider"
+444            android:authorities="com.sixamtech.sarvadhi_mart_user.firebaseinitprovider"
 444-->[com.google.firebase:firebase-common:21.0.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/69c5e12ccf5a9beb44502607203c520f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:25:13-72
 445            android:directBootAware="true"
 445-->[com.google.firebase:firebase-common:21.0.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/69c5e12ccf5a9beb44502607203c520f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:26:13-43
@@ -776,7 +776,7 @@
 457-->[com.facebook.android:facebook-core:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/d97919188098446b9eb86190f440836e/transformed/jetified-facebook-core-17.0.2/AndroidManifest.xml:29:9-32:40
 458            android:name="com.facebook.internal.FacebookInitProvider"
 458-->[com.facebook.android:facebook-core:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/d97919188098446b9eb86190f440836e/transformed/jetified-facebook-core-17.0.2/AndroidManifest.xml:30:13-70
-459            android:authorities="com.sixamtech.sixam_mart_user.FacebookInitProvider"
+459            android:authorities="com.sixamtech.sarvadhi_mart_user.FacebookInitProvider"
 459-->[com.facebook.android:facebook-core:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/d97919188098446b9eb86190f440836e/transformed/jetified-facebook-core-17.0.2/AndroidManifest.xml:31:13-72
 460            android:exported="false" />
 460-->[com.facebook.android:facebook-core:17.0.2] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/d97919188098446b9eb86190f440836e/transformed/jetified-facebook-core-17.0.2/AndroidManifest.xml:32:13-37
@@ -812,7 +812,7 @@
 477-->[androidx.emoji2:emoji2:1.2.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39a80bff993ffc5a8639dbc20a592c58/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 478            android:name="androidx.startup.InitializationProvider"
 478-->[androidx.emoji2:emoji2:1.2.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39a80bff993ffc5a8639dbc20a592c58/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
-479            android:authorities="com.sixamtech.sixam_mart_user.androidx-startup"
+479            android:authorities="com.sixamtech.sarvadhi_mart_user.androidx-startup"
 479-->[androidx.emoji2:emoji2:1.2.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39a80bff993ffc5a8639dbc20a592c58/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
 480            android:exported="false" >
 480-->[androidx.emoji2:emoji2:1.2.0] /Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39a80bff993ffc5a8639dbc20a592c58/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37

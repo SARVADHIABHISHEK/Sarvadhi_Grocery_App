@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sixamtech.sixam_mart_user.app-mergeDebugResources-64:/values-xlarge-v4/values-xlarge-v4.xml",
+            "outputFile": "com.sixamtech.sarvadhi_mart_user.app-mergeDebugResources-64:/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
                     "source": "/Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/e251a2a55de642630123ec4cef11b92a/transformed/appcompat-1.6.1/res/values-xlarge-v4/values-xlarge-v4.xml",

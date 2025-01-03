@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sixamtech.sixam_mart_user.app-mergeDebugResources-64:/values-zh-rHK/values-zh-rHK.xml",
+            "outputFile": "com.sixamtech.sarvadhi_mart_user.app-mergeDebugResources-64:/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
                     "source": "/Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/4ce40cfbc5fb626954e1e7bd964014d7/transformed/jetified-play-services-basement-18.4.0/res/values-zh-rHK/values.xml",

@@ -1,10 +1,10 @@
 import 'package:get/get.dart';
-import 'package:sixam_mart/common/models/choose_us_model.dart';
-import 'package:sixam_mart/features/language/domain/models/language_model.dart';
-import 'package:sixam_mart/util/images.dart';
+import 'package:sarvadhi_mart/common/models/choose_us_model.dart';
+import 'package:sarvadhi_mart/features/language/domain/models/language_model.dart';
+import 'package:sarvadhi_mart/util/images.dart';
 
 class AppConstants {
-  static const String appName = '6amMart';
+  static const String appName = 'Sarvadhi_Mart';
   static const double appVersion = 2.12;
 
   ///Flutter Version: 3.24.5
@@ -12,12 +12,12 @@ class AppConstants {
   static const String fontFamily = 'Roboto';
   static const bool payInWevView = false;
   static const int balanceInputLen = 10;
-  // static const String webHostedUrl = 'https://6ammart-web.6amtech.com';
+  // static const String webHostedUrl = 'https://Sarvadhi_Mart-web.6amtech.com';
   static const String webHostedUrl = 'http://grocery.sarvadhi.work';
   // http://grocery.sarvadhi.work/login/admin
   static const bool useReactWebsite = false;
 
-  // static const String baseUrl = 'https://6ammart-admin.6amtech.com';
+  // static const String baseUrl = 'https://Sarvadhi_Mart-admin.6amtech.com';
   static const String baseUrl = 'http://grocery.sarvadhi.work';
   static const String categoryUri = '/api/v1/categories';
   static const String bannerUri = '/api/v1/banners';
@@ -195,32 +195,34 @@ class AppConstants {
   static const String removeItemCartUri = '/api/v1/customer/cart/remove-item';
 
   /// Shared Key
-  static const String theme = '6ammart_theme';
-  static const String token = '6ammart_token';
-  static const String countryCode = '6ammart_country_code';
-  static const String languageCode = '6ammart_language_code';
+  static const String theme = 'Sarvadhi_Mart_theme';
+  static const String token = 'Sarvadhi_Mart_token';
+  static const String countryCode = 'Sarvadhi_Mart_country_code';
+  static const String languageCode = 'Sarvadhi_Mart_language_code';
   static const String cacheCountryCode = 'cache_country_code';
   static const String cacheLanguageCode = 'cache_language_code';
-  static const String cartList = '6ammart_cart_list';
-  static const String userPassword = '6ammart_user_password';
-  static const String userAddress = '6ammart_user_address';
-  static const String userNumber = '6ammart_user_number';
-  static const String userCountryCode = '6ammart_user_country_code';
-  static const String notification = '6ammart_notification';
+  static const String cartList = 'Sarvadhi_Mart_cart_list';
+  static const String userPassword = 'Sarvadhi_Mart_user_password';
+  static const String userAddress = 'Sarvadhi_Mart_user_address';
+  static const String userNumber = 'Sarvadhi_Mart_user_number';
+  static const String userCountryCode = 'Sarvadhi_Mart_user_country_code';
+  static const String notification = 'Sarvadhi_Mart_notification';
   static const String notificationIdList = 'notification_id_list';
-  static const String searchHistory = '6ammart_search_history';
-  static const String intro = '6ammart_intro';
-  static const String notificationCount = '6ammart_notification_count';
-  static const String dmTipIndex = '6ammart_dm_tip_index';
-  static const String earnPoint = '6ammart_earn_point';
-  static const String acceptCookies = '6ammart_accept_cookies';
-  static const String suggestedLocation = '6ammart_suggested_location';
-  static const String walletAccessToken = '6ammart_wallet_access_token';
-  static const String guestId = '6ammart_guest_id';
-  static const String guestNumber = '6ammart_guest_number';
-  static const String referBottomSheet = '6ammart_reffer_bottomsheet_show';
-  static const String dmRegisterSuccess = '6ammart_dm_registration_success';
-  static const String isRestaurantRegister = '6ammart_store_registration';
+  static const String searchHistory = 'Sarvadhi_Mart_search_history';
+  static const String intro = 'Sarvadhi_Mart_intro';
+  static const String notificationCount = 'Sarvadhi_Mart_notification_count';
+  static const String dmTipIndex = 'Sarvadhi_Mart_dm_tip_index';
+  static const String earnPoint = 'Sarvadhi_Mart_earn_point';
+  static const String acceptCookies = 'Sarvadhi_Mart_accept_cookies';
+  static const String suggestedLocation = 'Sarvadhi_Mart_suggested_location';
+  static const String walletAccessToken = 'Sarvadhi_Mart_wallet_access_token';
+  static const String guestId = 'Sarvadhi_Mart_guest_id';
+  static const String guestNumber = 'Sarvadhi_Mart_guest_number';
+  static const String referBottomSheet =
+      'Sarvadhi_Mart_reffer_bottomsheet_show';
+  static const String dmRegisterSuccess =
+      'Sarvadhi_Mart_dm_registration_success';
+  static const String isRestaurantRegister = 'Sarvadhi_Mart_store_registration';
 
   static const String topic = 'all_zone_customer';
   static const String zoneId = 'zoneId';

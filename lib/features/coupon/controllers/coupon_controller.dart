@@ -1,8 +1,8 @@
-import 'package:sixam_mart/features/coupon/domain/models/coupon_model.dart';
-import 'package:sixam_mart/helper/price_converter.dart';
-import 'package:sixam_mart/common/widgets/custom_snackbar.dart';
+import 'package:sarvadhi_mart/features/coupon/domain/models/coupon_model.dart';
+import 'package:sarvadhi_mart/helper/price_converter.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_snackbar.dart';
 import 'package:get/get.dart';
-import 'package:sixam_mart/features/coupon/domain/services/coupon_service_interface.dart';
+import 'package:sarvadhi_mart/features/coupon/domain/services/coupon_service_interface.dart';
 
 class CouponController extends GetxController implements GetxService {
   final CouponServiceInterface couponServiceInterface;

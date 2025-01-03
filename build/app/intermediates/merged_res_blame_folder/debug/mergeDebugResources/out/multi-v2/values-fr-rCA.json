@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sixamtech.sixam_mart_user.app-mergeDebugResources-64:/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "com.sixamtech.sarvadhi_mart_user.app-mergeDebugResources-64:/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
                     "source": "/Users/abhisheksmacm3-24-5/.gradle/caches/8.11.1/transforms/39c164f844f6b6617af14a1a676831b5/transformed/core-1.13.1/res/values-fr-rCA/values-fr-rCA.xml",

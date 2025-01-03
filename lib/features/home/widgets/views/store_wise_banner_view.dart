@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sixam_mart/util/dimensions.dart';
-import 'package:sixam_mart/util/images.dart';
-import 'package:sixam_mart/common/widgets/custom_image.dart';
+import 'package:sarvadhi_mart/util/dimensions.dart';
+import 'package:sarvadhi_mart/util/images.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_image.dart';
 
 class StoreWiseBannerView extends StatelessWidget {
   const StoreWiseBannerView({super.key});

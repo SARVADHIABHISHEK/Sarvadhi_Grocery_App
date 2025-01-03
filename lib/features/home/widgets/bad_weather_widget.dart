@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:sixam_mart/features/location/domain/models/zone_response_model.dart';
-import 'package:sixam_mart/helper/address_helper.dart';
-import 'package:sixam_mart/helper/responsive_helper.dart';
-import 'package:sixam_mart/util/dimensions.dart';
-import 'package:sixam_mart/util/images.dart';
-import 'package:sixam_mart/util/styles.dart';
+import 'package:sarvadhi_mart/features/location/domain/models/zone_response_model.dart';
+import 'package:sarvadhi_mart/helper/address_helper.dart';
+import 'package:sarvadhi_mart/helper/responsive_helper.dart';
+import 'package:sarvadhi_mart/util/dimensions.dart';
+import 'package:sarvadhi_mart/util/images.dart';
+import 'package:sarvadhi_mart/util/styles.dart';
 class BadWeatherWidget extends StatefulWidget {
   final bool inParcel;
   const BadWeatherWidget({super.key, this.inParcel = false});

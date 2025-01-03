@@ -1,8 +1,8 @@
-import 'package:sixam_mart/common/enums/data_source_enum.dart';
-import 'package:sixam_mart/features/item/domain/models/basic_medicine_model.dart';
-import 'package:sixam_mart/features/item/domain/models/common_condition_model.dart';
-import 'package:sixam_mart/features/item/domain/models/item_model.dart';
-import 'package:sixam_mart/features/cart/domain/models/cart_model.dart';
+import 'package:sarvadhi_mart/common/enums/data_source_enum.dart';
+import 'package:sarvadhi_mart/features/item/domain/models/basic_medicine_model.dart';
+import 'package:sarvadhi_mart/features/item/domain/models/common_condition_model.dart';
+import 'package:sarvadhi_mart/features/item/domain/models/item_model.dart';
+import 'package:sarvadhi_mart/features/cart/domain/models/cart_model.dart';
 
 abstract class ItemServiceInterface {
   Future<List<Item>?> getPopularItemList(String type, DataSourceEnum? source);

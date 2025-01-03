@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sixamtech.sixam_mart_user"
+    package="com.sixamtech.sarvadhi_mart_user"
     android:versionCode="1"
     android:versionName="1.0.0" >
 
@@ -52,10 +52,10 @@
     <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
 
     <permission
-        android:name="com.sixamtech.sixam_mart_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.sixamtech.sarvadhi_mart_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.sixamtech.sixam_mart_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.sixamtech.sarvadhi_mart_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
 
     <application
@@ -64,7 +64,7 @@
         android:debuggable="true"
         android:extractNativeLibs="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="6amMart"
+        android:label="Sarvadhi_Mart"
         android:requestLegacyExternalStorage="true"
         android:supportsRtl="true"
         android:usesCleartextTraffic="true" >
@@ -73,7 +73,7 @@
             android:value="AIzaSyCaCSJ0BZItSyXqBv8vpD1N4WBffJeKhLQ" />
 
         <activity
-            android:name="com.sixamtech.sixam_mart_user.MainActivity"
+            android:name="com.sixamtech.sarvadhi_mart_user.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:exported="true"
             android:hardwareAccelerated="true"
@@ -102,7 +102,7 @@
                 android:resource="@drawable/launch_background" />
             <meta-data
                 android:name="com.google.firebase.messaging.default_notification_channel_id"
-                android:value="6ammart" />
+                android:value="Sarvadhi_Mart" />
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -130,7 +130,7 @@
             android:value="@string/facebook_client_token" />
 
         <activity
-            android:name="com.sixamtech.sixam_mart_user.sign_in_with_apple.SignInWithAppleCallback"
+            android:name="com.sixamtech.sarvadhi_mart_user.sign_in_with_apple.SignInWithAppleCallback"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
@@ -216,7 +216,7 @@
 
         <provider
             android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-            android:authorities="com.sixamtech.sixam_mart_user.flutterfirebasemessaginginitprovider"
+            android:authorities="com.sixamtech.sarvadhi_mart_user.flutterfirebasemessaginginitprovider"
             android:exported="false"
             android:initOrder="99" />
 
@@ -255,7 +255,7 @@
 
         <provider
             android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-            android:authorities="com.sixamtech.sixam_mart_user.flutter.image_provider"
+            android:authorities="com.sixamtech.sarvadhi_mart_user.flutter.image_provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -290,7 +290,7 @@
         -->
         <provider
             android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
-            android:authorities="com.sixamtech.sixam_mart_user.flutter.share_provider"
+            android:authorities="com.sixamtech.sarvadhi_mart_user.flutter.share_provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -328,7 +328,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="cct.com.sixamtech.sixam_mart_user"
+                    android:host="cct.com.sixamtech.sarvadhi_mart_user"
                     android:scheme="fbconnect" />
             </intent-filter>
         </activity>
@@ -441,7 +441,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.sixamtech.sixam_mart_user.firebaseinitprovider"
+            android:authorities="com.sixamtech.sarvadhi_mart_user.firebaseinitprovider"
             android:directBootAware="true"
             android:exported="false"
             android:initOrder="100" />
@@ -456,7 +456,7 @@
         -->
         <provider
             android:name="com.facebook.internal.FacebookInitProvider"
-            android:authorities="com.sixamtech.sixam_mart_user.FacebookInitProvider"
+            android:authorities="com.sixamtech.sarvadhi_mart_user.FacebookInitProvider"
             android:exported="false" />
 
         <receiver
@@ -476,7 +476,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.sixamtech.sixam_mart_user.androidx-startup"
+            android:authorities="com.sixamtech.sarvadhi_mart_user.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

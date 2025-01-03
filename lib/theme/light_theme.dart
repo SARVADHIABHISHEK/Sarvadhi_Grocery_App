@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sixam_mart/util/app_constants.dart';
+import 'package:sarvadhi_mart/util/app_constants.dart';
 
 ThemeData light({Color color = const Color(0xFF2b67b2)}) => ThemeData(
       fontFamily: AppConstants.fontFamily,

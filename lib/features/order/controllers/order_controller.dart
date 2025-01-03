@@ -1,11 +1,11 @@
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:sixam_mart/common/models/response_model.dart';
-import 'package:sixam_mart/features/order/domain/models/order_cancellation_body.dart';
-import 'package:sixam_mart/features/order/domain/models/order_details_model.dart';
-import 'package:sixam_mart/features/order/domain/models/order_model.dart';
-import 'package:sixam_mart/features/order/domain/services/order_service_interface.dart';
-import 'package:sixam_mart/helper/auth_helper.dart';
+import 'package:sarvadhi_mart/common/models/response_model.dart';
+import 'package:sarvadhi_mart/features/order/domain/models/order_cancellation_body.dart';
+import 'package:sarvadhi_mart/features/order/domain/models/order_details_model.dart';
+import 'package:sarvadhi_mart/features/order/domain/models/order_model.dart';
+import 'package:sarvadhi_mart/features/order/domain/services/order_service_interface.dart';
+import 'package:sarvadhi_mart/helper/auth_helper.dart';
 
 class OrderController extends GetxController implements GetxService {
   final OrderServiceInterface orderServiceInterface;

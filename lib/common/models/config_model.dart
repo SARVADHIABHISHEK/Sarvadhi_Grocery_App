@@ -1,4 +1,4 @@
-import 'package:sixam_mart/common/models/module_model.dart';
+import 'package:sarvadhi_mart/common/models/module_model.dart';
 
 class ConfigModel {
   String? businessName;

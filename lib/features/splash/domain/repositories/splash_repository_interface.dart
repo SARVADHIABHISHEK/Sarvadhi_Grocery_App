@@ -1,6 +1,6 @@
-import 'package:sixam_mart/common/enums/data_source_enum.dart';
-import 'package:sixam_mart/common/models/module_model.dart';
-import 'package:sixam_mart/interfaces/repository_interface.dart';
+import 'package:sarvadhi_mart/common/enums/data_source_enum.dart';
+import 'package:sarvadhi_mart/common/models/module_model.dart';
+import 'package:sarvadhi_mart/interfaces/repository_interface.dart';
 
 abstract class SplashRepositoryInterface extends RepositoryInterface {
   Future<dynamic> getConfigData({required DataSourceEnum source});

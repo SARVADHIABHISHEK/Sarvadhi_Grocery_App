@@ -1,16 +1,16 @@
-import 'package:sixam_mart/features/splash/controllers/splash_controller.dart';
-import 'package:sixam_mart/features/order/domain/models/order_model.dart';
-import 'package:sixam_mart/util/dimensions.dart';
-import 'package:sixam_mart/util/images.dart';
-import 'package:sixam_mart/util/styles.dart';
-import 'package:sixam_mart/common/widgets/custom_divider.dart';
-import 'package:sixam_mart/common/widgets/custom_image.dart';
-import 'package:sixam_mart/common/widgets/custom_snackbar.dart';
-import 'package:sixam_mart/common/widgets/rating_bar.dart';
+import 'package:sarvadhi_mart/features/splash/controllers/splash_controller.dart';
+import 'package:sarvadhi_mart/features/order/domain/models/order_model.dart';
+import 'package:sarvadhi_mart/util/dimensions.dart';
+import 'package:sarvadhi_mart/util/images.dart';
+import 'package:sarvadhi_mart/util/styles.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_divider.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_image.dart';
+import 'package:sarvadhi_mart/common/widgets/custom_snackbar.dart';
+import 'package:sarvadhi_mart/common/widgets/rating_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:get/get.dart';
-import 'package:sixam_mart/features/order/widgets/address_details_widget.dart';
+import 'package:sarvadhi_mart/features/order/widgets/address_details_widget.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 class TrackDetailsViewWidget extends StatelessWidget {

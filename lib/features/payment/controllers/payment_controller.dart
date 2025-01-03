@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:sixam_mart/features/payment/domain/models/offline_method_model.dart';
-import 'package:sixam_mart/features/payment/domain/services/payment_service_interface.dart';
+import 'package:sarvadhi_mart/features/payment/domain/models/offline_method_model.dart';
+import 'package:sarvadhi_mart/features/payment/domain/services/payment_service_interface.dart';
 
 class PaymentController extends GetxController implements GetxService {
   final PaymentServiceInterface paymentServiceInterface;

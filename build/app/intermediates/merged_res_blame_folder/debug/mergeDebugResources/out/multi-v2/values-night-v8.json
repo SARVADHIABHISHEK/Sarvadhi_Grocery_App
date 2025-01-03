@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sixamtech.sixam_mart_user.app-mergeDebugResources-64:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.sixamtech.sarvadhi_mart_user.app-mergeDebugResources-64:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/Users/abhisheksmacm3-24-5/Documents/All Flutter Projects/flutter-projects/Sarvadhi_Grocery_App/android/app/src/main/res/values-night/styles.xml",
