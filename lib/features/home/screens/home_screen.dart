@@ -220,9 +220,7 @@ class _HomeScreenState extends State<HomeScreen> {
           splashController.moduleList!.length == 1) {
         splashController.switchModule(0, true);
       }
-      bool showMobileModule = !ResponsiveHelper.isDesktop(context) &&
-          splashController.module == null &&
-          splashController.configModel!.module == null;
+      bool showMobileModule = !ResponsiveHelper.isDesktop(context) && splashController.module == null && splashController.configModel!.module == null;
       bool isParcel = splashController.module != null &&
           splashController.configModel!.moduleConfig!.module!.isParcel!;
       bool isPharmacy = splashController.module != null &&
@@ -566,13 +564,13 @@ class _HomeScreenState extends State<HomeScreen> {
 
                               SliverToBoxAdapter(
                                 child: Center(
-                                  child: SizedBox(
-                                    width: Dimensions.webMaxWidth,
-                                    child: !showMobileModule
-                                        ? Column(
-                                            crossAxisAlignment:
-                                                CrossAxisAlignment.start,
-                                            children: [
+                                    child: SizedBox(
+                                  width: Dimensions.webMaxWidth,
+                                  child: !showMobileModule
+                                      ? Column(
+                                          crossAxisAlignment:
+                                              CrossAxisAlignment.start,
+                                          children: [
                                               isGrocery
                                                   ? const GroceryHomeScreen()
                                                   : isPharmacy
@@ -582,13 +580,10 @@ class _HomeScreenState extends State<HomeScreen> {
                                                           : isShop
                                                               ? const ShopHomeScreen()
                                                               : const SizedBox(),
-                                            ],
-                                          )
-                                        : ModuleView(
-                                            splashController: splashController,
-                                          ),
-                                  ),
-                                ),
+                                            ])
+                                      : ModuleView(
+                                          splashController: splashController),
+                                )),
                               ),
 
                               !showMobileModule
@@ -606,56 +601,55 @@ class _HomeScreenState extends State<HomeScreen> {
                                   : const SliverToBoxAdapter(),
 
                               SliverToBoxAdapter(
-                                child: !showMobileModule
-                                    ? Center(
-                                        child: GetBuilder<StoreController>(
-                                            builder: (storeController) {
-                                          return Padding(
-                                            padding: EdgeInsets.only(
-                                                bottom:
-                                                    ResponsiveHelper.isDesktop(
-                                                            context)
-                                                        ? 0
-                                                        : 100),
-                                            child: PaginatedListView(
-                                              scrollController:
-                                                  _scrollController,
-                                              totalSize: storeController
-                                                  .storeModel?.totalSize,
-                                              offset: storeController
-                                                  .storeModel?.offset,
-                                              onPaginate: (int? offset) async =>
-                                                  await storeController
-                                                      .getStoreList(
-                                                          offset!, false),
-                                              itemView: ItemsView(
-                                                isStore: true,
-                                                items: null,
-                                                isFoodOrGrocery:
-                                                    (isFood || isGrocery),
-                                                stores: storeController
-                                                    .storeModel?.stores,
-                                                padding: EdgeInsets.symmetric(
-                                                  horizontal: ResponsiveHelper
+                                  child: !showMobileModule
+                                      ? Center(
+                                          child: GetBuilder<StoreController>(
+                                              builder: (storeController) {
+                                            return Padding(
+                                              padding: EdgeInsets.only(
+                                                  bottom: ResponsiveHelper
                                                           .isDesktop(context)
-                                                      ? Dimensions
-                                                          .paddingSizeExtraSmall
-                                                      : Dimensions
-                                                          .paddingSizeSmall,
-                                                  vertical: ResponsiveHelper
-                                                          .isDesktop(context)
-                                                      ? Dimensions
-                                                          .paddingSizeExtraSmall
-                                                      : Dimensions
-                                                          .paddingSizeDefault,
+                                                      ? 0
+                                                      : 100),
+                                              child: PaginatedListView(
+                                                scrollController:
+                                                    _scrollController,
+                                                totalSize: storeController
+                                                    .storeModel?.totalSize,
+                                                offset: storeController
+                                                    .storeModel?.offset,
+                                                onPaginate:
+                                                    (int? offset) async =>
+                                                        await storeController
+                                                            .getStoreList(
+                                                                offset!, false),
+                                                itemView: ItemsView(
+                                                  isStore: true,
+                                                  items: null,
+                                                  isFoodOrGrocery:
+                                                      (isFood || isGrocery),
+                                                  stores: storeController
+                                                      .storeModel?.stores,
+                                                  padding: EdgeInsets.symmetric(
+                                                    horizontal: ResponsiveHelper
+                                                            .isDesktop(context)
+                                                        ? Dimensions
+                                                            .paddingSizeExtraSmall
+                                                        : Dimensions
+                                                            .paddingSizeSmall,
+                                                    vertical: ResponsiveHelper
+                                                            .isDesktop(context)
+                                                        ? Dimensions
+                                                            .paddingSizeExtraSmall
+                                                        : Dimensions
+                                                            .paddingSizeDefault,
+                                                  ),
                                                 ),
                                               ),
-                                            ),
-                                          );
-                                        }),
-                                      )
-                                    : const SizedBox(),
-                              ),
+                                            );
+                                          }),
+                                        )
+                                      : const SizedBox()),
                             ],
                           ),
                   ),

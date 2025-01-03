@@ -4,7 +4,7 @@ import 'package:sarvadhi_mart/features/language/domain/models/language_model.dar
 import 'package:sarvadhi_mart/util/images.dart';
 
 class AppConstants {
-  static const String appName = 'Sarvadhi_Mart';
+  static const String appName = 'Sarvadhi Mart';
   static const double appVersion = 2.12;
 
   ///Flutter Version: 3.24.5
@@ -12,12 +12,12 @@ class AppConstants {
   static const String fontFamily = 'Roboto';
   static const bool payInWevView = false;
   static const int balanceInputLen = 10;
-  // static const String webHostedUrl = 'https://Sarvadhi_Mart-web.6amtech.com';
+  // static const String webHostedUrl = 'https://6ammart-web.6amtech.com';
   static const String webHostedUrl = 'http://grocery.sarvadhi.work';
   // http://grocery.sarvadhi.work/login/admin
   static const bool useReactWebsite = false;
 
-  // static const String baseUrl = 'https://Sarvadhi_Mart-admin.6amtech.com';
+  // static const String baseUrl = 'https://6ammart-web.6amtech.com';
   static const String baseUrl = 'http://grocery.sarvadhi.work';
   static const String categoryUri = '/api/v1/categories';
   static const String bannerUri = '/api/v1/banners';

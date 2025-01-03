@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/raw_notification.wav.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/raw/notification.wav"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/drawable-v21_launch_background.xml.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/drawable_notification_icon.png.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/drawable/notification_icon.png"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sixamtech.sarvadhi_mart_user.app-debug-66:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sixamtech.sarvadhi_mart_user.app-main-59:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    }
+]
